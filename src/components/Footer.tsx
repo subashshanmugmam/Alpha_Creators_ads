@@ -11,7 +11,7 @@ export const Footer = () => {
                 <Sparkles className="h-5 w-5 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-                Kindred Ads
+                Alpha Creators Ads
               </span>
             </div>
             <p className="text-muted-foreground mb-4 max-w-md">
@@ -19,7 +19,7 @@ export const Footer = () => {
               ethical practices, and real-time optimization.
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 Kindred Ads. Built with ethical AI practices.
+              © 2024 Alpha Creators Ads. Built with ethical AI practices.
             </p>
           </div>
           

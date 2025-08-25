@@ -11,7 +11,7 @@ export const Header = () => {
               <Sparkles className="h-5 w-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-              Kindred Ads
+              Alpha Creators Ads
             </span>
           </div>
         </div>
